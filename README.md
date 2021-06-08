@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mart
 - 👀 I’m interested in a lot of things, so it's hard too explain.
 - 🌱 I’m currently learning normal school stuff.
-- 💞️ I’m looking to collaborate on scripting for games.
+- 💞️ I’m looking to collaborate on scripting for games, but right now, I'm not good at scripting, so-
 - 📫 How to reach me: discord: I'm officially Freddie Dredd#9664
 
 <!---
